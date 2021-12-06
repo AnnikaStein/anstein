@@ -4,11 +4,15 @@
 
 /* Style the body */
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  /*font-family: "Roboto", Arial, Helvetica, sans-serif;*/
+  font-family: "Roboto", sans-serif;
   margin: 0;
 	height: 100%;
+	min-height: 100%;
 	overscroll-behavior: none;
+  background-color: #ddd;
 }
+html,body,h1,h2,h3,h4,h5,h6,a {font-family: "Roboto", sans-serif}
 
 /* Header/logo Title */
 .header {
@@ -137,7 +141,16 @@ body {
   display: block;
 }
 
-
+#wrapper {
+    position: relative;
+    min-height:100%;
+}
+.flex-wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: flex-start;
+}
 /* Column container */
 .row {
   display: -ms-flexbox; /* IE10 */
@@ -172,11 +185,17 @@ body {
 
 /* Footer */
 .footer {
+  margin-top: auto;
   padding: 20px;
   text-align: center;
   background: #ddd;
+  position: relative;
+  clear: both;
 }
+.rest {
+  background: #ddd;
 
+}
 /* Collabsible */
 .collapsible {
   background-color: #777;
