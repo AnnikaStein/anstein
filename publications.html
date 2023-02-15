@@ -54,9 +54,21 @@
               2023
           </p>
         </div>
-        <button type="button" class="collapsible">Abstract</button>
+        <button type="button" class="collapsible">Abstract (<em>Under review.</em>)</button>
         <div class="content">
-          <p>In preparation.</p>
+          <p>In the field of high-energy physics, deep learning algorithms continue to gain in
+relevance and provide performance improvements over traditional methods, for example when
+identifying rare signals or finding complex patterns. From an analyst’s perspective, obtaining
+highest possible performance is desirable, but recently, some attention has been shifted towards
+studying robustness of models to investigate how well these perform under slight distortions
+of input features. Especially for tasks that involve many (low-level) inputs, the application of
+deep neural networks brings new challenges. In the context of jet flavor tagging, adversarial
+attacks are used to probe a typical classifier‘s vulnerability and can be understood as a model
+for systematic uncertainties. A corresponding defense strategy, adversarial training, improves
+robustness, while maintaining high performance. Investigating the loss surface corresponding
+to the inputs and models in question reveals geometric interpretations of robustness, taking
+correlations into account.</p>
+<p>Contribution: Conducted the entire study, wrote the code, interpreted the results and derived new ideas on top of that, designed the poster (see the original <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>) and then wrote the proceedings. Follow-up of <a href="#robustness_jet_tagging">this publication</a>.</p>
         </div>
       </div>
       <div class="card">
@@ -71,6 +83,7 @@
         <button type="button" class="collapsible">Abstract</button>
         <div class="content">
           <p>Modern neural networks bring considerable performance improvements in various areas of high-energy physics, such as object identification. Flavour-tagging is one example that profits from complex architectures, leveraging information from large numbers of low-level inputs. While such tagging algorithms are evaluated on data and simulation for analysis purposes, training is usually performed with simulated samples only. Differences in performance between these two domains are observed which need to be calibrated against. With a new strategy, called adversarial training, we reduce the observed differences prior to any calibration, and improve robustness of the classifier against injected mis-modelings that mimic systematic uncertainties. In this note, studies on adversarial robustness and agreement between data and simulation are carried out with the DeepJet algorithm, evaluated on Run2 samples. The addition of an adversarial module is envisaged to be included in newly developed tagging algorithms for Run3.</p>
+          <p>Contribution: All steps starting from custom dataset production to the presentation of final results were performed by me, which I then summarized in the note.</p>
         </div>
       </div>
       <div class="card">
@@ -85,6 +98,7 @@
         <button type="button" class="collapsible">Abstract</button>
         <div class="content">
           <p>Deep learning is a standard tool in the field of high-energy physics, facilitating considerable sensitivity enhancements for numerous analysis strategies. In particular, in identification of physics objects, such as jet flavor tagging, complex neural network architectures play a major role. However, these methods are reliant on accurate simulations. Mismodeling can lead to non-negligible differences in performance in data that need to be measured and calibrated against. We investigate the classifier response to input data with injected mismodelings and probe the vulnerability of flavor tagging algorithms via application of adversarial attacks. Subsequently, we present an adversarial training strategy that mitigates the impact of such simulated attacks and improves the classifier robustness. We examine the relationship between performance and vulnerability and show that this method constitutes a promising approach to reduce the vulnerability to poor modeling.</p>
+          <p>Contribution: Conducted the entire study form start to finish myself, main author. First I performed a similar study for my master thesis, then I rewrote the framework for a new data structure, redid the analysis introducing more validations, interpreted the results and acted as corresponding author. Presented first <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>.</p>
         </div>
       </div>
     </div>
@@ -103,7 +117,7 @@
 </div>
 
 <div class="footer">
-  <p>Last updated: 10.02.2023</p>
+  <p>Last updated: 15.02.2023</p>
 </div>
 <script src="js/script.js"></script>
 </body>
