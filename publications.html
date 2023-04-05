@@ -46,11 +46,34 @@
     <div class="w3-container">
       <h2 class="w3-text-black w3-padding-16">Publications</h2>
       <div class="card">
+        <h3>	A first look at early 2022 proton-proton collisions at √s = 13.6
+ TeV for heavy-flavor jet tagging</h3>
+        <h4 id="comm_earlyrun3_btv_cms">CMS Collaboration (<b><u>Annika Stein</u></b>)</h4>
+        <div class="note">
+          <p><em>Detector Performance Summary, CMS, CERN</em><br>
+              <a href="https://cds.cern.ch/record/2854698?ln=en" target="_blank">CMS DP-2023/012</a><br>
+              March 2023
+          </p>
+        </div>
+        <button type="button" class="collapsible">Abstract</button>
+        <div class="content">
+          <p>	Identification of jets stemming from heavy-flavor (bottom or charm) hadrons relies primarily on the inputs due to reconstruction of charged particle tracks and secondary vertices contained in these jets. Thus, it is crucial to study the data vs. simulation distributions of the kinematic variables that are used as inputs for the heavy-flavor tagging algorithms. With the start of LHC Run 3, new track reconstruction methods and changes of the general data-taking conditions have been introduced in the CMS experiment. In this note, a comparison of early Run 3 data vs. simulation distributions for several input variables, tagging discriminants, and other relevant kinematic observables in four different phase space regions that are enriched in b, c, and light (udsg) jets, is presented. The proton-proton collision data recorded by the CMS detector during the early part of the 2022 run, corresponding to an integrated luminosity of 7.65 fb−1, has been used for this study.</p>
+          <p><em>Contribution: Wrote code to produce samples, modified code to switch from Run 2 to Run 3 setup, involving new jet collection (PUPPI), and extended input collections (DeepJet).
+            Advised the entire commissioning team on how to efficiently split and produce the samples with CMS tool "CRAB", supported in case of questions or problems with the CMS software + grid resources, and produced some myself.
+            Contributed configuration to run the framework at different computing clusters with various priority queues, leading to a net increase of throughput for individual analysers getting the required amount of cores + core hours.
+            Investigated newly added features in a pre-commissioning study to determine their best representation with histograms and checked their validity in an independent cross-check.
+            Parts of my master thesis code are re-used to simplify access and obtain reproducible visualization of tagger input features which requires understanding of their definitions and physical meaning.
+            I kept up with developments of other POGs to include latest recommendations in object selections and ensured the code is in line with official experiment- and era-specific guidelines.
+            I identified a vast amount of (edge) cases and difficult-to-catch technicalities during extensive code review to ensure usability and consistent results across phase spaces and calibrations.
+          </em></p>
+        </div>
+      </div>
+      <div class="card">
         <h3>Improving robustness of jet tagging algorithms with adversarial training: exploring the loss surface</h3>
         <h4 id="adversarial_training_acat"><b><u>Annika Stein</u></b></h4>
         <div class="note">
           <p><em>Proceedings of 21th International Workshop on Advanced Computing and Analysis Techniques in Physics Research : AI meets Reality (ACAT 2022), to be published in the Journal Of Physics: Conference Series</em><br>
-              <a href="https://indico.cern.ch/event/1106990/contributions/5096950/" target="_blank">Contribution</a><br>
+              <a href="https://arxiv.org/abs/2303.14511" target="_blank">arXiv:2303.14511</a> [hep-ex] | <a href="https://indico.cern.ch/event/1106990/contributions/5096950/" target="_blank">Contribution</a><br>
               2023
           </p>
         </div>
@@ -68,7 +91,7 @@ for systematic uncertainties. A corresponding defense strategy, adversarial trai
 robustness, while maintaining high performance. Investigating the loss surface corresponding
 to the inputs and models in question reveals geometric interpretations of robustness, taking
 correlations into account.</p>
-<p>Contribution: Conducted the entire study, wrote the code, interpreted the results and derived new ideas on top of that, designed the poster (see the original <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>) and then wrote the proceedings. Follow-up of <a href="#robustness_jet_tagging">this publication</a>.</p>
+<p><em>Contribution: Conducted the entire study, wrote the code, interpreted the results and derived new ideas on top of that, designed the poster (see the original <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>) and then wrote the proceedings. Follow-up of <a href="#robustness_jet_tagging">this publication</a>.</em></p>
         </div>
       </div>
       <div class="card">
@@ -83,7 +106,7 @@ correlations into account.</p>
         <button type="button" class="collapsible">Abstract</button>
         <div class="content">
           <p>Modern neural networks bring considerable performance improvements in various areas of high-energy physics, such as object identification. Flavour-tagging is one example that profits from complex architectures, leveraging information from large numbers of low-level inputs. While such tagging algorithms are evaluated on data and simulation for analysis purposes, training is usually performed with simulated samples only. Differences in performance between these two domains are observed which need to be calibrated against. With a new strategy, called adversarial training, we reduce the observed differences prior to any calibration, and improve robustness of the classifier against injected mis-modelings that mimic systematic uncertainties. In this note, studies on adversarial robustness and agreement between data and simulation are carried out with the DeepJet algorithm, evaluated on Run2 samples. The addition of an adversarial module is envisaged to be included in newly developed tagging algorithms for Run3.</p>
-          <p>Contribution: All steps starting from custom dataset production to the presentation of final results were performed by me, which I then summarized in the note.</p>
+          <p><em>Contribution: All steps starting from custom dataset production to the presentation of final results were performed by me, which I then summarized in the note.</em></p>
         </div>
       </div>
       <div class="card">
@@ -98,7 +121,7 @@ correlations into account.</p>
         <button type="button" class="collapsible">Abstract</button>
         <div class="content">
           <p>Deep learning is a standard tool in the field of high-energy physics, facilitating considerable sensitivity enhancements for numerous analysis strategies. In particular, in identification of physics objects, such as jet flavor tagging, complex neural network architectures play a major role. However, these methods are reliant on accurate simulations. Mismodeling can lead to non-negligible differences in performance in data that need to be measured and calibrated against. We investigate the classifier response to input data with injected mismodelings and probe the vulnerability of flavor tagging algorithms via application of adversarial attacks. Subsequently, we present an adversarial training strategy that mitigates the impact of such simulated attacks and improves the classifier robustness. We examine the relationship between performance and vulnerability and show that this method constitutes a promising approach to reduce the vulnerability to poor modeling.</p>
-          <p>Contribution: Conducted the entire study form start to finish myself, main author. First I performed a similar study for my master thesis, then I rewrote the framework for a new data structure, redid the analysis introducing more validations, interpreted the results and acted as corresponding author. Presented first <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>.</p>
+          <p><em>Contribution: Conducted the entire study form start to finish myself, main author. First I performed a similar study for my master thesis, then I rewrote the framework for a new data structure, redid the analysis introducing more validations, interpreted the results and acted as corresponding author. Presented first <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>.</em></p>
         </div>
       </div>
     </div>
@@ -117,7 +140,7 @@ correlations into account.</p>
 </div>
 
 <div class="footer">
-  <p>Last updated: 25.03.2023</p>
+  <p>Last updated: 05.04.2023</p>
 </div>
 <script src="js/script.js"></script>
 </body>
