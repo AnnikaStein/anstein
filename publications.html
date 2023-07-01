@@ -12,7 +12,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 <link rel="stylesheet" href="css/main.css">
-<!--<link rel="stylesheet" href="/css/footer.css">-->
 
 </head>
 <body>
@@ -22,14 +21,6 @@
   <p>Physics Institute III A, RWTH Aachen University</p>
 </div>
 
-<!--
-<nav class="topnav sticky" id="myTopnav">
-  <a href="#home" class="active">Home</a>
-  <a href="#home" class="">Test</a>
-
-  <a href="javascript:void(0);" style="height:1rem;" class="icon" onclick="respNav()">&#9776;</a>
-</nav>
--->
 <nav class="navbar" id="myTopnav">
   <a href="index.html" id="homebutton">Home</a>
   <a href="javascript:void(0);" class="icon" onclick="respNav()">&#9776;</a>
@@ -46,7 +37,24 @@
     <div class="w3-container">
       <h2 class="w3-text-black w3-padding-16">Publications</h2>
       <div class="card">
-        <h3>	A first look at early 2022 proton-proton collisions at √s = 13.6
+        <h3>A modern framework for jet tagger development</h3>
+        <h4>From training to first data-to-simulation agreement results in one go<h4>
+        <h4 id="comm_earlyrun3_btv_cms">Annika Stein</h4>
+        <div class="note">
+          <p><em>arXiv preprint</em><br>
+              <a href="https://arxiv.org/abs/TBA" target="_blank">arXiv:23XX.XXXX</a><br>
+              July 2023
+          </p>
+        </div>
+        <button type="button" class="collapsible">Abstract</button>
+        <div class="content">
+          <p>This paper presents a new tool to perform various steps in jet tagger development in an efficient and comprehensive way. A common data structure is used for training, as well as for performance evaluation in data. The introduction of this new framework reduces the amount of data to be stored while accomplishing the same tasks, and shortens waiting times between algorithm development and data-to-simulation results becoming available from months to days, taking typical CMS experiment pipelines as a reference. Proper utilization of high-throughput systems enables first data-to-simulation studies with a recent neural network architecture, Particle Transformer, adapted to jet flavour tagging. Unlike official implementations of the collaboration, the new framework allows investigating different variants, like different training paradigms, and their impact on data/simulation agreement, without producing any new large files on disk, and within the same run of the analysis framework. Besides being more time- and storage-efficient and thus enabling the first results of that kind to be available just few hours after finishing neural network training, the framework is currently the only realization capable of studying how adversarial techniques affect data/simulation agreement for tagger algorithm outputs as well as inputs.</p>
+          <p><em>Contribution: Came up with the entire restructured framework design, developed it to be production-ready and showed first application to a new algorithm.
+          </em></p>
+        </div>
+      </div>
+      <div class="card">
+        <h3>A first look at early 2022 proton-proton collisions at √s = 13.6
  TeV for heavy-flavor jet tagging</h3>
         <h4 id="comm_earlyrun3_btv_cms">CMS Collaboration</h4>
         <div class="note">
@@ -140,7 +148,7 @@ correlations into account.</p>
 </div>
 
 <div class="footer">
-  <p>Last updated: 29.04.2023</p>
+  <p>Last updated: 01.07.2023</p>
 </div>
 <script src="js/script.js"></script>
 </body>
