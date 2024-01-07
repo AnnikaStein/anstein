@@ -18,7 +18,7 @@ html,body,h1,h2,h3,h4,h5,h6,a {font-family: "Roboto", sans-serif}
 .header {
   padding: 3rem;
   text-align: center;
-  background: #022b6bcc;
+  background: rgb(193,0,42);
   color: white;
   overflow: hidden;
 	width: 100%;
@@ -32,7 +32,7 @@ html,body,h1,h2,h3,h4,h5,h6,a {font-family: "Roboto", sans-serif}
 /* Sticky navbar - toggles between relative and fixed, depending on the scroll position. It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). The sticky value is not supported in IE or Edge 15 and earlier versions. However, for these versions the navbar will inherit default position */
 .navbar {
   /*overflow: hidden;*/
-  background-color: #333;
+  background-color: rgb(99,99,99);
   min-height: 3rem;
   padding: 0;
   z-index: 1;
@@ -247,6 +247,11 @@ html,body,h1,h2,h3,h4,h5,h6,a {font-family: "Roboto", sans-serif}
   border-left: 6px solid #555;
   padding-left: 1rem;
 }
+
+.jgu-red {
+  color: rgb(193,0,42)!important;
+}
+
 
 /* Responsive layout - when the screen is less than 1255px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 1255px) {
