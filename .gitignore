@@ -1,3 +1,6 @@
 # There's more but it's not really relevant here lol
 assets/*.pdf
 *.DS_Store*
+
+site
+_old_stuff
