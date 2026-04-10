@@ -86,6 +86,13 @@ icon: lucide/mic-vocal
         Won Poster Award: Committee's Selection<br>
             <a href="https://indico.cern.ch/event/1543084/timetable/#37-17-top-quark-antiquark-pair" target="_blank">Contribution (restricted access)</a> | October 2025
 
+    ??? info "Internal meetings: Analysis Model Group"
+
+        ??? info "Informal organizational Easyjet - TopCPToolKit chat"
+
+            "📊 TopCPToolKit quick introduction"<br>
+              <a href="https://indico.cern.ch/event/1644624/#2-topcptoolkit-quick-introduct" target="_blank">Contribution (restricted access)</a> | February 2026
+
     ??? info "Internal meetings: Higgs, Multi-Boson, and SUSY searches"
 
         ??? info "Central Methods and Background Forum"
