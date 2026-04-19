@@ -4,6 +4,22 @@ icon: lucide/book-open-text
 
 # Publications
 
+<a name="TopCPToolkit"></a>
+???+ example "TopCPToolkit"
+
+    ATLAS Collaboration <b><u>(Annika Stein)</u></b>
+
+    - <em>Software</em><br>
+        <a href="https://gitlab.cern.ch/atlas/amg/software/TopCPToolkit" target="_blank">https://gitlab.cern.ch/atlas/amg/software/TopCPToolkit</a><br>
+        <a href="https://gitlab.cern.ch/atlas/amg/software/HowToExtendTopCPToolkit" target="_blank">https://gitlab.cern.ch/atlas/amg/software/HowToExtendTopCPToolkit</a><br>
+        2026
+
+    !!! abstract
+
+        <p>Analysis framework based on CP algorithms, maintained by the Top WG for all of ATLAS.</p>
+        <p><em>Contribution: Development and maintenance of software, user support, tutorials as part of top reconstruction convener role, including core team coordination.
+        </em></p>
+
 <a name="hgtd_db_plots"></a>
 ???+ note "HGTD Production Database (Plots 2026)"
 
