@@ -297,7 +297,7 @@ icon: lucide/mic-vocal
 
     "Die Gruppentheorie des Zauberwürfels und des Skewbs"<br>
         <a href="https://annika-stein.web.cern.ch/theses/Bachelorarbeit_Stein_Annika_Mathematik.pdf" target="_blank">PDF</a> | January 2019<br>
-        <a href="https://freshcuber.de/fcp06/" target="_blank">Interview for laymen (podcast)</a> | February 2019<br>
+        <a href="https://freshcuber.wordpress.com/2019/02/08/freshcuberpodcast06/" target="_blank">Interview for laymen (podcast)</a> | February 2019<br>
         <a href="https://annika-stein.web.cern.ch/assets/jgu_mainz_preis_herausragende_abschlussarbeiten_stein_annika.pdf" target="_blank">Outstanding Thesis Award</a> | January 2020<br>
         <a href="https://share.deutschlandradio.de/dlf-audiothek-audio-teilen.html?audio_id=852114&fbclid" target="_blank">Interview Deutschlandfunk</a> | August 2020<br>
         Note: all linked resources are only available in German.

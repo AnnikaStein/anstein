@@ -42,7 +42,7 @@ icon: lucide/sparkles
         <li><a href="https://www.rtl.de/cms/deutsche-zauberwuerfel-meisterschaft-in-frankfurt-wer-ist-der-oder-die-schnellste-am-wuerfel-5003018.html" target="_blank">"RTL Hessen"</a> (TV news & Web, in German),</li>
         <li><a href="https://share.deutschlandradio.de/dlf-audiothek-audio-teilen.html?audio_id=852114&fbclid" target="_blank">"Deutschlandfunk Nova"</a> (German radio podcast: <a href="https://srv.deutschlandradio.de/dlf-audiothek-audio-teilen.3265.de.html?mdm:audio_id=dira_DRW_8b7105c3" target="_blank">Aus der Dlf Audiothek | Grünstreifen | Speedcubing – Zauberwürfel als Hobby</a>),</li>
         <li><a href="https://www.telemadrid.es/noticias/madrid/Madrid-acoge-jueves-campeonato-europeo-0-2031996813--20180719031057.html" target="_blank">"TeleMadrid"</a> (TV news, in Spanish / English),</li>
-        <li><a href="https://freshcuber.de/fcp06/" target="_blank">"Freshcuber-Podcast"</a> (several episodes in German, including a long interview, now part of the team).</li>
+        <li><a href="https://freshcuber.wordpress.com/2019/02/08/freshcuberpodcast06/" target="_blank">"Freshcuber-Podcast"</a> (several episodes in German, including a long interview, now part of the team).</li>
       </ul>
     </p>
     <p>

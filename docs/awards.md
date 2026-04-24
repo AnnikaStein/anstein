@@ -10,6 +10,8 @@ icon: lucide/gem
 
     Oct. 2025
 
+    - Poster title: Top quark-antiquark pair reconstruction in the lepton+jets channel with SpaNet on detector- and particle-level
+
     - Committee‘s Selection: Poster Award at ATLAS Collaboration Week in Paestum / Italy
 
 !!! tip "2025 Breakthrough Prize in Fundamental Physics"
@@ -56,8 +58,9 @@ icon: lucide/gem
 
     - Current medal collection:
 
-        🥇 / 🥈 / 🥉<br>
-          5  /  15  / 20
+        | 🥇 | 🥈 | 🥉 |
+        | :---: | :---: | :---: |
+        | 5 | 15 | 20 |
 
     - Obtained in these categories:
         - 3x3x3

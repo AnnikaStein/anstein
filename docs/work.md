@@ -19,9 +19,9 @@ icon: lucide/briefcase
 
         ??? note "Upgrade for HL-LHC: High Granularity Timing Detector"
 
-            - Production Database (development, documentation, training, communication), especially for Module / Assembly Group, slot table creation and deployment of API tools, grafana monitoring
+            - Production Database (development, documentation, training, communication), especially for Module / Assembly Group, slot table creation and deployment of API tools, grafana monitoring, measurements and consistency checks, tools for convenience
             - 3D Model Validation (CAD, .step files)
-            - Flex Tails (length computation, length validation (mechanics), modeling in ProdDB)
+            - Flex Tails (length computation with "higher order corrections", length validation (mechanics), modeling in ProdDB)
 
     ??? success "Leadership / Service"
 
@@ -36,6 +36,10 @@ icon: lucide/briefcase
                 - Database Tutorial Instructor / Facilitator during Expert Week (November 2025)
             - y-ATLAS Local Representative for Mainz (ECR documentation)
             - Co-Organization of ATLAS Mainz Workshop (January 2026) and assistant at ATLAS-D meeting (September 2024)
+            - ATLAS Control Room shifter
+                - Shift Leader (2026)
+                - Run Control / Trigger (2025 - 2026)
+                - Calo / Forward (2025)
 
         ??? note "For the institute"
 
@@ -55,13 +59,14 @@ icon: lucide/briefcase
 
         ??? note "Supervision"
 
-            - 3 PhD students (ongoing, 3x physics analysis and for 1 candidate Local Supervisor of the Authorship Qualification Project in ATLAS)
-                - Top reconstruction / properties
+            - 3 PhD students (ongoing, 3x physics analysis and 1x Local Supervisor of the Authorship Qualification Project in ATLAS)
+                - Top quark reconstruction / properties
                 - Exotics search / LLPs
+                - Database / software infrastructure development
             - 1 Master student (ongoing)
-                - Top reconstruction / properties
+                - Top quark reconstruction / properties
             - 1 Bachelor student (finished)
-                - Top reconstruction
+                - Top quark reconstruction
 
 ??? info "Earlier"
 

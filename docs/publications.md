@@ -10,13 +10,15 @@ icon: lucide/book-open-text
     ATLAS Collaboration <b><u>(Annika Stein)</u></b>
 
     - <em>Software</em><br>
-        <a href="https://gitlab.cern.ch/atlas/amg/software/TopCPToolkit" target="_blank">https://gitlab.cern.ch/atlas/amg/software/TopCPToolkit</a><br>
-        <a href="https://gitlab.cern.ch/atlas/amg/software/HowToExtendTopCPToolkit" target="_blank">https://gitlab.cern.ch/atlas/amg/software/HowToExtendTopCPToolkit</a><br>
+        Gitlab: <a href="https://gitlab.cern.ch/atlas/amg/software/TopCPToolkit" target="_blank">https://gitlab.cern.ch/atlas/amg/software/TopCPToolkit</a><br>
+        Gitlab: <a href="https://gitlab.cern.ch/atlas/amg/software/HowToExtendTopCPToolkit" target="_blank">https://gitlab.cern.ch/atlas/amg/software/HowToExtendTopCPToolkit</a><br>
+        Zenodo: [![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19683083.svg "Zenodo DOI")](https://doi.org/10.5281/zenodo.19683083)<br>
+
         2026
 
     !!! abstract
 
-        <p>Analysis framework based on CP algorithms, maintained by the Top WG for all of ATLAS.</p>
+        <p>TopCPToolkit is an ntuple production framework for analysing data from LHC Run 2 and Run 3. It is built around common CP and analysis algorithms in release 25 of the central athena software framework of the ATLAS Collaboration.</p>
         <p><em>Contribution: Development and maintenance of software, user support, tutorials as part of top reconstruction convener role, including core team coordination.
         </em></p>
 
