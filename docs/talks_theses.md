@@ -8,6 +8,11 @@ icon: lucide/mic-vocal
 
 ### Conference contributions, seminars and public outreach
 
+??? note "Upcoming: ICHEP 2026 (Natal, Brasil)"
+
+    "💻 Data Structures and Algorithms for the Production of the ATLAS High-Granularity Timing Detector"<br>
+        <a href="https://indico.cern.ch/event/1522800/contributions/6987053/" target="_blank">Contribution</a> | July/August 2026
+
 ??? tip "DPG-Frühjahrstagung 2026 (Erlangen)"
 
     "💻 The Production Database of the High-Granularity Timing Detector for the ATLAS Phase-II Upgrade"<br>
@@ -71,6 +76,9 @@ icon: lucide/mic-vocal
 ??? info "PostDoc (JGU), ATLAS internal"
 
     ??? tip "ATLAS Top Workshop 2026 (CERN)"
+
+        "📊 Tutorial/hackathon TopCPToolkit"<br>
+        <a href="https://indico.cern.ch/event/1632823/contributions/6886379/" target="_blank">Contribution (restricted access)</a> | May 2026
 
         "📊 Past and present of Top frameworks"<br>
         <a href="https://indico.cern.ch/event/1632823/contributions/6932547/" target="_blank">Contribution (restricted access)</a> | May 2026
