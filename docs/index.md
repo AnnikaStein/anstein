@@ -9,7 +9,7 @@ icon: lucide/rocket
 
     Currently, my research is targeted at (Run 3) **data analysis** with the **ATLAS experiment** (top quark physics (cross section, charge / energy asymmetry) and exotics (ALPs+tops with calorimeter jets)) and **R&D** of the High Granularity Timing Detector (HGTD) for HL-LHC / Run 4 with a special interest in database development and design / testing of Flex Tails (flexible PCBs).
 
-    I enjoy building highly performant and reliable analysis software with comprehensive documentation, as well as user interfaces that my collaborators enjoy. Further, I am a strong advocate of consistency, automation and optimization.
+    I enjoy building highly performant and reliable analysis software with comprehensive documentation, as well as user interfaces that my collaborators enjoy. Furthermore, I am a strong advocate of consistency, automation and optimization.
 
 ## Recent Highlights
 
@@ -121,3 +121,7 @@ you will also find specialized links that point you to my contributions in that 
 - :telephone: Don't hesitate to [contact](contact.md) me!
 
 </div>
+
+## Badges / Metrics
+
+[![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@AnnikaStein)](https://joss.theoj.org/papers/reviewed_by/@AnnikaStein)
