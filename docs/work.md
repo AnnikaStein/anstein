@@ -47,7 +47,7 @@ icon: lucide/briefcase
 
         ??? note "Reviewer for..."
 
-            - JOSS
+            - JOSS: [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@AnnikaStein)](https://joss.theoj.org/papers/reviewed_by/@AnnikaStein)
 
     ??? success "Teaching and Supervision"
 
