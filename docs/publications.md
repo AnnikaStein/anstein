@@ -8,6 +8,7 @@ icon: lucide/book-open-text
 ???+ example "TopCPToolkit"
 
     ATLAS Collaboration <b><u>(Annika Stein)</u></b>
+    ![TopCPToolkit Logo](https://gitlab.cern.ch/uploads/-/system/project/avatar/167389/avatar_toolkit.png){ width="150", align=right }
 
     - <em>Software</em><br>
         Gitlab: <a href="https://gitlab.cern.ch/atlas/amg/software/TopCPToolkit" target="_blank">https://gitlab.cern.ch/atlas/amg/software/TopCPToolkit</a><br>
@@ -87,11 +88,12 @@ icon: lucide/book-open-text
 <a name="adversarial_training_acat"></a>
 ??? tip "Improving robustness of jet tagging algorithms with adversarial training: exploring the loss surface"
 
+    ![Loss surface](assets/loss_with_directions.png){ width="200", align=right }
     Annika Stein
 
     - <em>Proceedings of 21th International Workshop on Advanced Computing and Analysis Techniques in Physics Research : AI meets Reality (ACAT 2022), in the Journal Of Physics: Conference Series</em><br>
-        <a href="https://arxiv.org/abs/2303.14511" target="_blank">arXiv:2303.14511</a> [hep-ex] | <a href="https://indico.cern.ch/event/1106990/contributions/5096950/" target="_blank">Contribution</a><br>
-        2023
+        <a href="https://arxiv.org/abs/2303.14511" target="_blank">arXiv:2303.14511</a> [hep-ex] | <a href="https://doi.org/10.1088/1742-6596/3206/1/012085" target="_blank">https://doi.org/10.1088/1742-6596/3206/1/012085</a> | <a href="https://indico.cern.ch/event/1106990/contributions/5096950/" target="_blank">Contribution</a><br>
+        25 Mar 2023 (preprint v1) | published 14 Apr 2026 (J. Phys.: Conf. Ser.) <em>3206</em> 012085.
 
     !!! abstract
 
@@ -107,7 +109,7 @@ icon: lucide/book-open-text
           robustness, while maintaining high performance. Investigating the loss surface corresponding
           to the inputs and models in question reveals geometric interpretations of robustness, taking
           correlations into account.</p>
-        <p><em>Contribution: Main analyzer, developed code, interpreted the results and derived new ideas on top of that, designed the poster (see the predecessor <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>) and then wrote the proceedings. Follow-up of <a href="#robustness_jet_tagging">this publication</a>.</em></p>
+        <p><em>Contribution: Main analyzer, developed code, interpreted the results and derived new ideas on top of that, designed the poster (see also previous one <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>) and then wrote the proceedings. Follow-up of <a href="#robustness_jet_tagging">this publication</a>.</em></p>
 
 <a name="adversarial_training_btv_cms"></a>
 ??? note "Adversarial training for b-tagging algorithms in CMS"

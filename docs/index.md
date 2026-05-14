@@ -13,6 +13,31 @@ icon: lucide/rocket
 
 ## Recent Highlights
 
+### Improving robustness of jet tagging algorithms with adversarial training: exploring the loss surface
+
+!!! info ""
+
+    ![Loss surface](assets/loss_with_directions.png){ width="200", align=right }
+
+    - 14.05.2026: now published in <em>Journal of Physics: Conference Series</em><br>
+        IOP Publishing: [![DOI](https://img.shields.io/badge/DOI-10.1088%2F1742--6596%2F3206%2F1%2F012085-blue?style=flat&)](https://doi.org/10.1088/1742-6596/3206/1/012085)<br>
+
+    ??? abstract
+
+        <p>In the field of high-energy physics, deep learning algorithms continue to gain in
+          relevance and provide performance improvements over traditional methods, for example when
+          identifying rare signals or finding complex patterns. From an analyst’s perspective, obtaining
+          highest possible performance is desirable, but recently, some attention has been shifted towards
+          studying robustness of models to investigate how well these perform under slight distortions
+          of input features. Especially for tasks that involve many (low-level) inputs, the application of
+          deep neural networks brings new challenges. In the context of jet flavor tagging, adversarial
+          attacks are used to probe a typical classifier‘s vulnerability and can be understood as a model
+          for systematic uncertainties. A corresponding defense strategy, adversarial training, improves
+          robustness, while maintaining high performance. Investigating the loss surface corresponding
+          to the inputs and models in question reveals geometric interpretations of robustness, taking
+          correlations into account.</p>
+        <p><em>Contribution: Main analyzer, developed code, interpreted the results and derived new ideas on top of that, designed the poster (see also previous one <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>) and then wrote the proceedings. Follow-up of <a href="#robustness_jet_tagging">this publication</a>.</em></p>
+
 ### hgtd-tools
 
 !!! info ""
@@ -95,7 +120,7 @@ icon: lucide/rocket
 
 !!! info ""
 
-    ![Image title](https://gitlab.cern.ch/uploads/-/system/project/avatar/167389/avatar_toolkit.png){ width="100", align=right }
+    ![TopCPToolkit Logo](https://gitlab.cern.ch/uploads/-/system/project/avatar/167389/avatar_toolkit.png){ width="150", align=right }
 
     - <em>Software</em><br>
         Gitlab: <a href="https://gitlab.cern.ch/atlas/amg/software/TopCPToolkit" target="_blank">https://gitlab.cern.ch/atlas/amg/software/TopCPToolkit</a><br>
