@@ -96,6 +96,11 @@ icon: lucide/mic-vocal
 
     ??? info "Internal meetings: Analysis Model Group"
 
+        ??? info "Analysis Model Group (AMG) Meeting"
+
+            "📊 RNTuple outputs from CP algorithms / TopCPToolkit"<br>
+              <a href="https://indico.cern.ch/event/1686574/#12-rntuple-outputs-from-cp-alg" target="_blank">Contribution (restricted access)</a> | May 2026
+
         ??? info "Informal organizational Easyjet - TopCPToolKit chat"
 
             "📊 TopCPToolKit quick introduction"<br>
