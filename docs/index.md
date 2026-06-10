@@ -46,6 +46,10 @@ icon: lucide/rocket
         <a href="https://twiki.cern.ch/twiki/bin/view/AtlasPublic/HGTDPublicPlots#Production_Database" target="_blank">https://twiki.cern.ch/twiki/bin/view/AtlasPublic/HGTDPublicPlots#Production_Database</a><br>
         2026
 
+    - <em>hgtd-tools Project</em><br>
+        <a href="https://gitlab.cern.ch/anstein/hgtd-tools" target="_blank">https://gitlab.cern.ch/anstein/hgtd-tools</a><br>
+        2025 - 2026
+
     !!! abstract
 
         <p>Results from pre-production of HGTD parts and their implementation in the Production Database along with the novel user interfaces, especially in "hgtd-tools", are presented.</p>

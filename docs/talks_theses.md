@@ -13,6 +13,11 @@ icon: lucide/mic-vocal
     "💻 Data Structures and Algorithms for the Production of the ATLAS High-Granularity Timing Detector"<br>
         <a href="https://indico.cern.ch/event/1522800/contributions/6987053/" target="_blank">Contribution</a> | July/August 2026
 
+??? note "Upcoming: VERTEX2026 (Stoos, Switzerland)"
+
+    "🛠️ Design and Construction of the ATLAS High-Granularity Timing Detector"<br>
+        <a href="https://indico.cern.ch/event/1618157/contributions/7116508/" target="_blank">Contribution</a> | July 2026
+
 ??? tip "DPG-Frühjahrstagung 2026 (Erlangen)"
 
     "💻 The Production Database of the High-Granularity Timing Detector for the ATLAS Phase-II Upgrade"<br>
@@ -74,6 +79,11 @@ icon: lucide/mic-vocal
 ### Other
 
 ??? info "PostDoc (JGU), ATLAS internal"
+
+    ??? note "Upcoming: ATLAS Week 2026 (Glasgow, UK)"
+
+        "📊 From the Top WG for all of ATLAS: Recent TopCPToolkit Developments"<br>
+        <a href="https://indico.cern.ch/event/1649690/contributions/7000737/" target="_blank">Contribution (restricted access)</a> | June 2026
 
     ??? tip "ATLAS Top Workshop 2026 (CERN)"
 
