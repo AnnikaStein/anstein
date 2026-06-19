@@ -80,6 +80,11 @@ icon: lucide/mic-vocal
 
 ??? info "PostDoc (JGU), ATLAS internal"
 
+    ??? note "Upcoming: ATLAS-D 2026 (Würzburg, Germany)"
+
+        "📊 TopCPToolkit Tutorial"<br>
+        TBA | September 2026
+
     ??? note "Upcoming: ATLAS Week 2026 (Glasgow, UK)"
 
         "📊 From the Top WG for all of ATLAS: Recent TopCPToolkit Developments"<br>
