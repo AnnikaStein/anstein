@@ -8,6 +8,11 @@ icon: lucide/mic-vocal
 
 ### Conference contributions, seminars and public outreach
 
+??? note "Upcoming: Top2026 (Antalya, Türkiye)"
+
+    "📊 Measurements at the production threshold in ATLAS"<br>
+        TBA | October 2026
+
 ??? note "Upcoming: ICHEP 2026 (Natal, Brasil)"
 
     "💻 Data Structures and Algorithms for the Production of the ATLAS High-Granularity Timing Detector"<br>
@@ -85,7 +90,7 @@ icon: lucide/mic-vocal
         "📊 TopCPToolkit Tutorial"<br>
         TBA | September 2026
 
-    ??? note "Upcoming: ATLAS Week 2026 (Glasgow, UK)"
+    ??? tip "ATLAS Week 2026 (Glasgow, UK)"
 
         "📊 From the Top WG for all of ATLAS: Recent TopCPToolkit Developments"<br>
         <a href="https://indico.cern.ch/event/1649690/contributions/7000737/" target="_blank">Contribution (restricted access)</a> | June 2026
@@ -172,6 +177,8 @@ icon: lucide/mic-vocal
 
         ??? info "Module Assembly and Loading"
 
+            - "💻 Plots for approval for a national meeting"<br>
+              <a href="https://indico.cern.ch/event/1645356/#24-plots-for-approval-for-a-na" target="_blank">Contribution (restricted access)</a> | February 2026
             - "🛠️ Flex tail lengths and needs for testing"<br>
              <a href="https://indico.cern.ch/event/1634239/#24-flex-tail-lengths-and-needs" target="_blank">Contribution (restricted access)</a> | January 2026
             - "💻 DB Updates: Analysis on Hybrid IV, VBD and sensor measurements"<br>
