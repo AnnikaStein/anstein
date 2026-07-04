@@ -4,6 +4,24 @@ icon: lucide/book-open-text
 
 # Publications
 
+<a name="hgtdtools"></a>
+???+ example "HGTD Tools"
+
+    Annika Stein
+    ![TopCPToolkit Logo](https://gitlab.cern.ch/uploads/-/system/project/avatar/208436/windowIcon.png){ width="150", align=right }
+
+    - <em>Software</em><br>
+        Gitlab: <a href="https://gitlab.cern.ch/anstein/hgtd-tools" target="_blank">https://gitlab.cern.ch/anstein/hgtd-tools</a>
+        Zenodo: [![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20774012.svg "Zenodo DOI")](https://doi.org/10.5281/zenodo.20774012)<br>
+
+        2026
+
+    !!! abstract
+
+        <p>Python GUI application and API client module to interact with the HGTD Production Database. Automatic reporting that syncs to eos space. Proud early adopter of zensical!</p>
+        <p><em>Contribution: Inventor / main developer, maintenance of software, user support, tutorials.
+        </em></p>
+
 <a name="TopCPToolkit"></a>
 ???+ example "TopCPToolkit"
 

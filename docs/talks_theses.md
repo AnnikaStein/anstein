@@ -177,6 +177,8 @@ icon: lucide/mic-vocal
 
         ??? info "Module Assembly and Loading"
 
+            - "💻 hgtd-tools: nightly reports, automatic validation and matching"<br>
+              <a href="https://indico.cern.ch/event/1689827/#23-hgtd-tools-nightly-reports" target="_blank">Contribution (restricted access)</a> | July 2026
             - "💻 Plots for approval for a national meeting"<br>
               <a href="https://indico.cern.ch/event/1645356/#24-plots-for-approval-for-a-na" target="_blank">Contribution (restricted access)</a> | February 2026
             - "🛠️ Flex tail lengths and needs for testing"<br>
