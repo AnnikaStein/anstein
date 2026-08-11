@@ -13,12 +13,12 @@ icon: lucide/mic-vocal
     "📊 Measurements at the production threshold in ATLAS"<br>
         TBA | October 2026
 
-??? note "Upcoming: ICHEP 2026 (Natal, Brasil)"
+??? tip "ICHEP 2026 (Natal, Brasil)"
 
     "💻 Data Structures and Algorithms for the Production of the ATLAS High-Granularity Timing Detector"<br>
         <a href="https://indico.cern.ch/event/1522800/contributions/6987053/" target="_blank">Contribution</a> | July/August 2026
 
-??? note "Upcoming: VERTEX2026 (Stoos, Switzerland)"
+??? tip "VERTEX2026 (Stoos, Switzerland)"
 
     "🛠️ Design and Construction of the ATLAS High-Granularity Timing Detector"<br>
         <a href="https://indico.cern.ch/event/1618157/contributions/7116508/" target="_blank">Contribution</a> | July 2026

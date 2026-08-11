@@ -13,6 +13,12 @@ icon: lucide/rocket
 
 ## Recent Highlights
 
+### Presentations at conferences 2026
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7489651406627553280?collapsed=1" height="628" width="504" frameborder="0" allowfullscreen="" title="ICHEP2026"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7487224239595401216?collapsed=1" height="628" width="504" frameborder="0" allowfullscreen="" title="TopHGTDATLASWeekVERTEX2026"></iframe>
+
 ### Improving robustness of jet tagging algorithms with adversarial training: exploring the loss surface
 
 !!! info ""
