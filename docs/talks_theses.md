@@ -85,10 +85,10 @@ icon: lucide/mic-vocal
 
 ??? info "PostDoc (JGU), ATLAS internal"
 
-    ??? note "Upcoming: ATLAS-D 2026 (Würzburg, Germany)"
+    ??? tip "ATLAS-D 2026 (Würzburg, Germany)"
 
-        "📊 TopCPToolkit Tutorial"<br>
-        TBA | September 2026
+        "📊 TopCPToolkit Tutorial/Hackathon/Drop-in-clinic"<br>
+        <a href="https://indico.cern.ch/event/1664455/contributions/7202198/" target="_blank">Contribution (restricted access)</a> | September 2026
 
     ??? tip "ATLAS Week 2026 (Glasgow, UK)"
 
@@ -113,6 +113,13 @@ icon: lucide/mic-vocal
         "📊 Top quark-antiquark pair reconstruction in the lepton+jets channel with SpaNet on detector- and particle-level"<br>
         Won Poster Award: Committee's Selection<br>
             <a href="https://indico.cern.ch/event/1543084/timetable/#37-17-top-quark-antiquark-pair" target="_blank">Contribution (restricted access)</a> | October 2025
+
+    ??? info "Internal meetings: Top Cross Section, Mass & Properties meeting"
+
+        ??? info "Top Cross Section, Mass & Properties meeting"
+
+            "📊 [ANA-TOPQ-2024-07]: TtbarXsec&ChargeAsymmetry - EB request"<br>
+              <a href="https://indico.cern.ch/event/1724195/#7-ana-topq-2024-07-ttbarxsecch" target="_blank">Contribution (restricted access)</a> | September 2026
 
     ??? info "Internal meetings: Analysis Model Group"
 
