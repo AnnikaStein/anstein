@@ -184,6 +184,10 @@ icon: lucide/mic-vocal
 
         ??? info "Module Assembly and Loading"
 
+            - "📊 Figure for Approval"<br>
+              <a href="https://indico.cern.ch/event/1689829/#23-figure-for-approval" target="_blank">Contribution (restricted access)</a> | July 2026
+            - "📊 Plots for approval"<br>
+              <a href="https://indico.cern.ch/event/1689828/#23-plots-for-approval" target="_blank">Contribution (restricted access)</a> | July 2026
             - "💻 hgtd-tools: nightly reports, automatic validation and matching"<br>
               <a href="https://indico.cern.ch/event/1689827/#23-hgtd-tools-nightly-reports" target="_blank">Contribution (restricted access)</a> | July 2026
             - "💻 Plots for approval for a national meeting"<br>
