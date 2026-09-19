@@ -42,7 +42,7 @@ icon: lucide/rocket
           robustness, while maintaining high performance. Investigating the loss surface corresponding
           to the inputs and models in question reveals geometric interpretations of robustness, taking
           correlations into account.</p>
-        <p><em>Contribution: Main analyzer, developed code, interpreted the results and derived new ideas on top of that, designed the poster (see also previous one <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>) and then wrote the proceedings. Follow-up of <a href="#robustness_jet_tagging">this publication</a>.</em></p>
+        <p><em>Contribution: Main analyzer, developed code, interpreted the results and derived new ideas on top of that, designed the poster (see also previous one <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>) and then wrote the proceedings. Follow-up of <a href="publications.md#robustness_jet_tagging">this publication</a>.</em></p>
 
 ### hgtd-tools
 
@@ -160,3 +160,5 @@ you will also find specialized links that point you to my contributions in that 
 ## Badges / Metrics
 
 [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@AnnikaStein)](https://joss.theoj.org/papers/reviewed_by/@AnnikaStein)
+
+*Last updated: {{ last_updated }}*

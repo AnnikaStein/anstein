@@ -154,3 +154,5 @@ icon: lucide/briefcase
       Coaching undergraduate students in mathematics (or other areas in STEM, like physics or computer science).
       My tasks included helping students with their weekly homework, pointing them to relevant resources (e.g. books, web), giving hints, explaining course material and concepts
       (examples: proof techniques, problemsolving, learning strategies) or simply supporting students in their first semesters.
+
+*Last updated: {{ last_updated }}*

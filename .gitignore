@@ -4,3 +4,5 @@ assets/*.pdf
 
 site
 _old_stuff
+
+*__pycache__*
