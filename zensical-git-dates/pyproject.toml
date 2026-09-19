@@ -5,13 +5,9 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "zensical-git-dates"
 version = "0.1.0"
-description = "Markdown extension to replace a placeholder with the Git last updated date."
-dependencies = [
-    "markdown>=3.0",
-    "gitpython>=3.1.0"
-]
+description = "Pure Markdown extension for Git last updated dates."
+dependencies = ["markdown>=3.0"]
 requires-python = ">=3.8"
 
 [project.entry-points."markdown.extensions"]
 zensical_git_dates = "zensical_git_dates.extension:GitDatesExtension"
-git-dates = "zensical_git_dates.extension:GitDatesExtension"

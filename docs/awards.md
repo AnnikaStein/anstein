@@ -70,3 +70,5 @@ icon: lucide/gem
         - 7x7x7
 
     - At competitions held in: 🇮🇪🇧🇪🇱🇮🇨🇭🇩🇪🇫🇷🇱🇺🇭🇺🇵🇹
+
+*Last updated: {{ last_updated }}*

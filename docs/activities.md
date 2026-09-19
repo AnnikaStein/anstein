@@ -77,3 +77,5 @@ icon: lucide/sparkles
     - <div style="width: 100%; margin: 0 auto; text-align: center"><iframe src="https://www.youtube.com/embed/OPfs7BsJ5yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
     </div>
+
+*Last updated: {{ last_updated }}*

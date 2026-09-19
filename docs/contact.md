@@ -16,3 +16,5 @@ icon: lucide/contact
 - :fontawesome-brands-orcid: [ORCID Profile Annika Stein](https://orcid.org/0000-0003-0713-811X)
 
 </div>
+
+*Last updated: {{ last_updated }}*

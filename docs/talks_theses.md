@@ -349,3 +349,5 @@ icon: lucide/mic-vocal
         <a href="https://annika-stein.web.cern.ch/assets/jgu_mainz_preis_herausragende_abschlussarbeiten_stein_annika.pdf" target="_blank">Outstanding Thesis Award</a> | January 2020<br>
         <a href="https://share.deutschlandradio.de/dlf-audiothek-audio-teilen.html?audio_id=852114&fbclid" target="_blank">Interview Deutschlandfunk</a> | August 2020<br>
         Note: all linked resources are only available in German.
+
+*Last updated: {{ last_updated }}*

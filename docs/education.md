@@ -229,3 +229,5 @@ icon: lucide/graduation-cap
         - <a href="https://annika-stein.web.cern.ch/assets/jgu_mainz_tutorenschulung_physik.pdf" target="_blank">Certificate</a>
         - Lehren - Organisieren - Beraten, FB 08 (JGU Mainz)
         - April 2018
+
+*Last updated: {{ last_updated }}*
