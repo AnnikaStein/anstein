@@ -4,6 +4,21 @@ icon: lucide/book-open-text
 
 # Publications
 
+<a name="ichep2026"></a>
+???+ tip "Data Structures and Algorithms for the Production of the ATLAS High-Granularity Timing Detector"
+
+    ![Module loading](assets/module_loading_new.png){ width="180", align=right }
+    Annika Stein
+
+    - <em>Proceedings of 43rd International Conference on High Energy Physics (ICHEP 2026), in Proceedings of Science</em><br>
+        <a href="https://cds.cern.ch/record/2971883/" target="_blank">CDS Record: 2971883</a> | To appear <br>
+        1 Oct 2026 (submitted) | .
+
+    !!! abstract
+
+        <p>The High-Granularity Timing Detector is being built as part of the ATLAS Phase-II upgrade. It is based on Low-Gain-Avalanche-Detector (LGAD) sensors and provides the time of tracks in the forward region. Assembly and testing sites use the Production Database (ProdDB) to track components with properties like measurements and relations. In this presentation, advancements in the production process and how each step interacts with the ProdDB will be explained. The central component type is the module (assembled from a PCB glued on top of two hybrids). Hybrids consist of a sensor bump-bounded to a readout chip (ASIC). We model the processes of module assembly, module loading onto support units, and detector assembly with quality control and automatic reporting. The ProdDB algorithms can guide the production process by suggesting parts matching certain criteria propagated through multiple layers of parent-child relations. When the HGTD is assembled, the tools help e.g. identifying optimal flexible PCB cables (flex tails) to fit certain positions. For this purpose, the HGTD is embedded via the “slot“ table, a data structure for localization of parts and coordinate systems. An example use case is the demonstrator, where the full production and DAQ chain can be tested on a reduced scale.</p>
+        <p><em>Contribution: Main developer/analyzer.</em></p>
+
 <a name="hgtdtools"></a>
 ???+ example "HGTD Tools"
 
