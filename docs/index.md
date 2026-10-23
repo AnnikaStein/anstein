@@ -15,11 +15,43 @@ icon: lucide/rocket
 
 ### Presentations at conferences 2026
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7519119087587708928?collapsed=1" height="628" width="504" frameborder="0" allowfullscreen="" title="TOP2026ATLASWeekUnderground"></iframe>
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7489651406627553280?collapsed=1" height="628" width="504" frameborder="0" allowfullscreen="" title="ICHEP2026"></iframe>
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7487224239595401216?collapsed=1" height="628" width="504" frameborder="0" allowfullscreen="" title="TopHGTDATLASWeekVERTEX2026"></iframe>
 
-### Improving robustness of jet tagging algorithms with adversarial training: exploring the loss surface
+### Proceedings 2026
+
+<a name="vertex2026"></a>
+???+ tip "Design and Construction of the ATLAS High-Granularity Timing Detector"
+
+    ![HGTD Integration](assets/integration.png){ width="480", align=right }
+    Annika Stein
+
+    - <em>Proceedings of 34th International Workshop on Vertex Detectors (Vertex 2026), submitted to Proceedings of Science</em><br>
+        <a href="https://cds.cern.ch/record/2972629" target="_blank">CDS Record: 2972629</a> | ATL-HGTD-PROC-2026-005 <br>
+        12 Oct 2026 (submitted) | .
+
+    !!! abstract
+
+        <p>The HGTD is a novel detector introduced by ATLAS to augment the new all-silicon Inner Tracker (ITk) in the pseudorapidity range from 2.4 to 4.0, adding the capability to measure charged-particle trajectories in time as well as space. Two double-sided layers of silicon sensors will provide precision timing information for charged particles with a resolution as good as 30 ps per track to help assign each particle to the correct vertex, recovering the ATLAS reconstruction performance at HL-LHC, enhancing the experiment’s pile-up rejection and providing bunch-by-bunch luminosity measurements. Readout cells have a size of 1.3mm x 1.3 mm, leading to a highly granular detector with  3.7 million channels. Low-Gain Avalanche Detectors (LGAD) technology has been chosen as it provides enough gain to reach the large signal over noise ratio needed. The requirements and overall specifications of the HGTD will be presented as well as the technical design and the project status. The R&D efforts on the detector components and construction, supported by laboratory and test beam results, will also be presented.</p>
+
+<a name="ichep2026"></a>
+???+ tip "Data Structures and Algorithms for the Production of the ATLAS High-Granularity Timing Detector"
+
+    ![Module Loading](assets/module_loading_new.png){ width="280", align=right }
+    Annika Stein
+
+    - <em>Proceedings of 43rd International Conference on High Energy Physics (ICHEP 2026), submitted to Proceedings of Science</em><br>
+        <a href="https://cds.cern.ch/record/2971883/" target="_blank">CDS Record: 2971883</a> | ATL-HGTD-PROC-2026-004 <br>
+        1 Oct 2026 (submitted) | .
+
+    <br><br>
+    !!! abstract
+
+        <p>The High-Granularity Timing Detector is being built as part of the ATLAS Phase-II upgrade. It is based on Low-Gain-Avalanche-Detector (LGAD) sensors and provides the time of tracks in the forward region. Assembly and testing sites use the Production Database (ProdDB) to track components with properties like measurements and relations. In this presentation, advancements in the production process and how each step interacts with the ProdDB will be explained. The central component type is the module (assembled from a PCB glued on top of two hybrids). Hybrids consist of a sensor bump-bounded to a readout chip (ASIC). We model the processes of module assembly, module loading onto support units, and detector assembly with quality control and automatic reporting. The ProdDB algorithms can guide the production process by suggesting parts matching certain criteria propagated through multiple layers of parent-child relations. When the HGTD is assembled, the tools help e.g. identifying optimal flexible PCB cables (flex tails) to fit certain positions. For this purpose, the HGTD is embedded via the “slot“ table, a data structure for localization of parts and coordinate systems. An example use case is the demonstrator, where the full production and DAQ chain can be tested on a reduced scale.</p>
+        <p><em>Contribution: Main developer/analyzer, poster presenter.</em></p>
 
 !!! info ""
 

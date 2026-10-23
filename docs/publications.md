@@ -4,23 +4,38 @@ icon: lucide/book-open-text
 
 # Publications
 
-<a name="ichep2026"></a>
-???+ tip "Data Structures and Algorithms for the Production of the ATLAS High-Granularity Timing Detector"
+<a name="vertex2026"></a>
+???+ tip "Design and Construction of the ATLAS High-Granularity Timing Detector"
 
-    ![Module loading](assets/module_loading_new.png){ width="180", align=right }
+    ![HGTD Integration](assets/integration.png){ width="480", align=right }
     Annika Stein
 
-    - <em>Proceedings of 43rd International Conference on High Energy Physics (ICHEP 2026), in Proceedings of Science</em><br>
-        <a href="https://cds.cern.ch/record/2971883/" target="_blank">CDS Record: 2971883</a> | To appear <br>
-        1 Oct 2026 (submitted) | .
+    - <em>Proceedings of 34th International Workshop on Vertex Detectors (Vertex 2026), submitted to Proceedings of Science</em><br>
+        <a href="https://cds.cern.ch/record/2972629" target="_blank">CDS Record: 2972629</a> | ATL-HGTD-PROC-2026-005 <br>
+        12 Oct 2026 (submitted) | .
 
     !!! abstract
 
+        <p>The HGTD is a novel detector introduced by ATLAS to augment the new all-silicon Inner Tracker (ITk) in the pseudorapidity range from 2.4 to 4.0, adding the capability to measure charged-particle trajectories in time as well as space. Two double-sided layers of silicon sensors will provide precision timing information for charged particles with a resolution as good as 30 ps per track to help assign each particle to the correct vertex, recovering the ATLAS reconstruction performance at HL-LHC, enhancing the experiment’s pile-up rejection and providing bunch-by-bunch luminosity measurements. Readout cells have a size of 1.3mm x 1.3 mm, leading to a highly granular detector with  3.7 million channels. Low-Gain Avalanche Detectors (LGAD) technology has been chosen as it provides enough gain to reach the large signal over noise ratio needed. The requirements and overall specifications of the HGTD will be presented as well as the technical design and the project status. The R&D efforts on the detector components and construction, supported by laboratory and test beam results, will also be presented.</p>
+
+<a name="ichep2026"></a>
+???+ tip "Data Structures and Algorithms for the Production of the ATLAS High-Granularity Timing Detector"
+
+    ![Module Loading](assets/module_loading_new.png){ width="280", align=right }
+    Annika Stein
+
+    - <em>Proceedings of 43rd International Conference on High Energy Physics (ICHEP 2026), submitted to Proceedings of Science</em><br>
+        <a href="https://cds.cern.ch/record/2971883/" target="_blank">CDS Record: 2971883</a> | ATL-HGTD-PROC-2026-004 <br>
+        1 Oct 2026 (submitted) | .
+
+    <br><br>
+    !!! abstract
+
         <p>The High-Granularity Timing Detector is being built as part of the ATLAS Phase-II upgrade. It is based on Low-Gain-Avalanche-Detector (LGAD) sensors and provides the time of tracks in the forward region. Assembly and testing sites use the Production Database (ProdDB) to track components with properties like measurements and relations. In this presentation, advancements in the production process and how each step interacts with the ProdDB will be explained. The central component type is the module (assembled from a PCB glued on top of two hybrids). Hybrids consist of a sensor bump-bounded to a readout chip (ASIC). We model the processes of module assembly, module loading onto support units, and detector assembly with quality control and automatic reporting. The ProdDB algorithms can guide the production process by suggesting parts matching certain criteria propagated through multiple layers of parent-child relations. When the HGTD is assembled, the tools help e.g. identifying optimal flexible PCB cables (flex tails) to fit certain positions. For this purpose, the HGTD is embedded via the “slot“ table, a data structure for localization of parts and coordinate systems. An example use case is the demonstrator, where the full production and DAQ chain can be tested on a reduced scale.</p>
-        <p><em>Contribution: Main developer/analyzer.</em></p>
+        <p><em>Contribution: Main developer/analyzer, poster presenter.</em></p>
 
 <a name="hgtdtools"></a>
-???+ example "HGTD Tools"
+??? example "HGTD Tools"
 
     Annika Stein
     ![TopCPToolkit Logo](https://gitlab.cern.ch/uploads/-/system/project/avatar/208436/windowIcon.png){ width="150", align=right }
@@ -38,7 +53,7 @@ icon: lucide/book-open-text
         </em></p>
 
 <a name="TopCPToolkit"></a>
-???+ example "TopCPToolkit"
+??? example "TopCPToolkit"
 
     ATLAS Collaboration <b><u>(Annika Stein)</u></b>
     ![TopCPToolkit Logo](https://gitlab.cern.ch/uploads/-/system/project/avatar/167389/avatar_toolkit.png){ width="150", align=right }
@@ -56,8 +71,35 @@ icon: lucide/book-open-text
         <p><em>Contribution: Development and maintenance of software, user support, tutorials as part of top reconstruction convener role, including core team coordination.
         </em></p>
 
+
+<a name="adversarial_training_acat"></a>
+??? tip "Improving robustness of jet tagging algorithms with adversarial training: exploring the loss surface"
+
+    ![Loss surface](assets/loss_with_directions.png){ width="200", align=right }
+    Annika Stein
+
+    - <em>Proceedings of 21th International Workshop on Advanced Computing and Analysis Techniques in Physics Research : AI meets Reality (ACAT 2022), in the Journal Of Physics: Conference Series</em><br>
+        <a href="https://arxiv.org/abs/2303.14511" target="_blank">arXiv:2303.14511</a> [hep-ex] | <a href="https://doi.org/10.1088/1742-6596/3206/1/012085" target="_blank">https://doi.org/10.1088/1742-6596/3206/1/012085</a> | <a href="https://indico.cern.ch/event/1106990/contributions/5096950/" target="_blank">Contribution</a><br>
+        25 Mar 2023 (preprint v1) | published 14 Apr 2026 (J. Phys.: Conf. Ser.) <em>3206</em> 012085.
+
+    !!! abstract
+
+        <p>In the field of high-energy physics, deep learning algorithms continue to gain in
+          relevance and provide performance improvements over traditional methods, for example when
+          identifying rare signals or finding complex patterns. From an analyst’s perspective, obtaining
+          highest possible performance is desirable, but recently, some attention has been shifted towards
+          studying robustness of models to investigate how well these perform under slight distortions
+          of input features. Especially for tasks that involve many (low-level) inputs, the application of
+          deep neural networks brings new challenges. In the context of jet flavor tagging, adversarial
+          attacks are used to probe a typical classifier‘s vulnerability and can be understood as a model
+          for systematic uncertainties. A corresponding defense strategy, adversarial training, improves
+          robustness, while maintaining high performance. Investigating the loss surface corresponding
+          to the inputs and models in question reveals geometric interpretations of robustness, taking
+          correlations into account.</p>
+        <p><em>Contribution: Main analyzer, developed code, interpreted the results and derived new ideas on top of that, designed the poster (see also previous one <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>) and then wrote the proceedings. Follow-up of <a href="#robustness_jet_tagging">this publication</a>.</em></p>
+
 <a name="hgtd_db_plots"></a>
-???+ note "HGTD Production Database (Plots 2026)"
+??? note "HGTD Production Database (Plots 2026)"
 
     ATLAS HGTD Project <b><u>(Annika Stein)</u></b>
 
@@ -116,33 +158,6 @@ icon: lucide/book-open-text
         I kept up with developments of other POGs to include latest recommendations in object selections and ensured the code is in line with official experiment- and era-specific guidelines.
         I identified a vast amount of (edge) cases and difficult-to-catch technicalities during extensive code review to ensure usability and consistent results across phase spaces and calibrations.
         </em></p>
-
-
-<a name="adversarial_training_acat"></a>
-??? tip "Improving robustness of jet tagging algorithms with adversarial training: exploring the loss surface"
-
-    ![Loss surface](assets/loss_with_directions.png){ width="200", align=right }
-    Annika Stein
-
-    - <em>Proceedings of 21th International Workshop on Advanced Computing and Analysis Techniques in Physics Research : AI meets Reality (ACAT 2022), in the Journal Of Physics: Conference Series</em><br>
-        <a href="https://arxiv.org/abs/2303.14511" target="_blank">arXiv:2303.14511</a> [hep-ex] | <a href="https://doi.org/10.1088/1742-6596/3206/1/012085" target="_blank">https://doi.org/10.1088/1742-6596/3206/1/012085</a> | <a href="https://indico.cern.ch/event/1106990/contributions/5096950/" target="_blank">Contribution</a><br>
-        25 Mar 2023 (preprint v1) | published 14 Apr 2026 (J. Phys.: Conf. Ser.) <em>3206</em> 012085.
-
-    !!! abstract
-
-        <p>In the field of high-energy physics, deep learning algorithms continue to gain in
-          relevance and provide performance improvements over traditional methods, for example when
-          identifying rare signals or finding complex patterns. From an analyst’s perspective, obtaining
-          highest possible performance is desirable, but recently, some attention has been shifted towards
-          studying robustness of models to investigate how well these perform under slight distortions
-          of input features. Especially for tasks that involve many (low-level) inputs, the application of
-          deep neural networks brings new challenges. In the context of jet flavor tagging, adversarial
-          attacks are used to probe a typical classifier‘s vulnerability and can be understood as a model
-          for systematic uncertainties. A corresponding defense strategy, adversarial training, improves
-          robustness, while maintaining high performance. Investigating the loss surface corresponding
-          to the inputs and models in question reveals geometric interpretations of robustness, taking
-          correlations into account.</p>
-        <p><em>Contribution: Main analyzer, developed code, interpreted the results and derived new ideas on top of that, designed the poster (see also previous one <a href="https://indico.desy.de/event/31214/contributions/120862/" target="_blank">here</a>) and then wrote the proceedings. Follow-up of <a href="#robustness_jet_tagging">this publication</a>.</em></p>
 
 <a name="adversarial_training_btv_cms"></a>
 ??? note "Adversarial training for b-tagging algorithms in CMS"

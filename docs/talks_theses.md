@@ -8,7 +8,7 @@ icon: lucide/mic-vocal
 
 ### Conference contributions, seminars and public outreach
 
-??? note "Upcoming: Top2026 (Antalya, Türkiye)"
+??? tip "Top2026 (Antalya, Türkiye)"
 
     "📊 Measurements at the production threshold in ATLAS"<br>
         TBA | October 2026
