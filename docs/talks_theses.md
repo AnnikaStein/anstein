@@ -8,10 +8,10 @@ icon: lucide/mic-vocal
 
 ### Conference contributions, seminars and public outreach
 
-??? tip "Top2026 (Antalya, Türkiye)"
+??? tip "TOP2026 (Antalya, Türkiye)"
 
     "📊 Measurements at the production threshold in ATLAS"<br>
-        TBA | October 2026
+        <a href="https://indico.cern.ch/event/1643686/contributions/7208117/" target="_blank">Contribution</a> | October 2026
 
 ??? tip "ICHEP 2026 (Natal, Brasil)"
 

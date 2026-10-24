@@ -14,7 +14,7 @@ icon: lucide/briefcase
 
         ??? note "Data analysis with the ATLAS experiment"
 
-            - Top Quark Physics: Top Cross Section, Charge / Energy Asymmetry (analysis methods, event reconstruction with ML techniques, note editor)
+            - Top Quark Physics: Top Cross Section, Charge / Energy Asymmetry (analysis methods, event reconstruction with ML techniques, note/contact editor)
             - Exotics: CalRatio + top (analysis strategy, framework design, analysis contact)
 
         ??? note "Upgrade for HL-LHC: High Granularity Timing Detector"
