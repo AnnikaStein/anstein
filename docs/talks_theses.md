@@ -81,9 +81,14 @@ icon: lucide/mic-vocal
         <a href="https://www.dpg-verhandlungen.de/year/2021/conference/dortmund/part/t/session/71/contribution/4" target="_blank">Contribution (Tagungsserver)</a> | March 2021
 
 
-### Other
+### Other and internal
 
 ??? info "PostDoc (JGU), ATLAS internal"
+
+    ??? note "Upcoming: ATLAS Software Tutorial November 2026 (CERN)"
+
+        "📊 Physics objects and CP Algorithms: key concepts"<br>
+        <a href="https://indico.cern.ch/event/1729364/contributions/7272473/" target="_blank">Contribution (restricted access)</a> | November 2026
 
     ??? tip "ATLAS-D 2026 (Würzburg, Germany)"
 
@@ -113,6 +118,13 @@ icon: lucide/mic-vocal
         "📊 Top quark-antiquark pair reconstruction in the lepton+jets channel with SpaNet on detector- and particle-level"<br>
         Won Poster Award: Committee's Selection<br>
             <a href="https://indico.cern.ch/event/1543084/timetable/#37-17-top-quark-antiquark-pair" target="_blank">Contribution (restricted access)</a> | October 2025
+
+    ??? info "Internal meetings: Top Reconstruction"
+
+        ??? info "Top Reco / TopCPToolkit chat"
+
+            "📊 PUB Note brainstorming"<br>
+              <a href="https://indico.cern.ch/event/1739735/#1-general-items" target="_blank">Contribution (restricted access)</a> | October 2026
 
     ??? info "Internal meetings: Top Cross Section, Mass & Properties meeting"
 
