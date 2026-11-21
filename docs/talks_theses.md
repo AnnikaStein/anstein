@@ -85,7 +85,7 @@ icon: lucide/mic-vocal
 
 ??? info "PostDoc (JGU), ATLAS internal"
 
-    ??? note "Upcoming: ATLAS Software Tutorial November 2026 (CERN)"
+    ??? tip "ATLAS Software Tutorial November 2026 (CERN)"
 
         "📊 Physics objects and CP Algorithms: key concepts"<br>
         <a href="https://indico.cern.ch/event/1729364/contributions/7272473/" target="_blank">Contribution (restricted access)</a> | November 2026
@@ -118,6 +118,13 @@ icon: lucide/mic-vocal
         "📊 Top quark-antiquark pair reconstruction in the lepton+jets channel with SpaNet on detector- and particle-level"<br>
         Won Poster Award: Committee's Selection<br>
             <a href="https://indico.cern.ch/event/1543084/timetable/#37-17-top-quark-antiquark-pair" target="_blank">Contribution (restricted access)</a> | October 2025
+
+    ??? info "Internal meetings: Top Plenary"
+
+        ??? info "Top Reco PUB Kick-off"
+
+            "📊 PUB Note Introduction"<br>
+              <a href="https://indico.cern.ch/event/1751047/#82-introduction" target="_blank">Contribution (restricted access)</a> | November 2026
 
     ??? info "Internal meetings: Top Reconstruction"
 
@@ -196,6 +203,8 @@ icon: lucide/mic-vocal
 
         ??? info "Module Assembly and Loading"
 
+            - "💻 New features in HGTD Tools"<br>
+            <a href="https://indico.cern.ch/event/1752700/#26-new-features-in-hgtd-tools" target="_blank">Contribution (restricted access)</a> | November 2026
             - "📊 Figure for Approval"<br>
               <a href="https://indico.cern.ch/event/1689829/#23-figure-for-approval" target="_blank">Contribution (restricted access)</a> | July 2026
             - "📊 Plots for approval"<br>
